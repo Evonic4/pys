@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/usr/bin/python3
+#- *- coding: utf-8 - *-
 
 name = "Andrew Venis"
 branch = "Computer Science"
